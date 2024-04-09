@@ -1,6 +1,8 @@
+## 0.37.1
+* Fix: Handle spamming unexpected error log from nullable objects.
+
 ## 0.37.0
 * Feat: The post count for a community can be fetched on the basis of AmityFeedType by using AmityCommunity.getPostCount. 
-
 
 ## 0.36.0
 * Feat: Video Story can be created using AmitySocialClient.newStoryRepository().createVideoStory.
@@ -20,6 +22,7 @@
 * Feat: Post Live collection have been added
 * Feat: Now user can get category by AmitySocialClient.newCommunityRepository().getCategory(categoryId)
 * Feat: Now user can get global feed custom ranking by AmitySocialClient.newFeedRepository().getCustomRankingGlobalFeed()
+
 
 ## 0.33.0
 * Feat: Upgraded, Upgradable libraries that would not cuase breaking changes
