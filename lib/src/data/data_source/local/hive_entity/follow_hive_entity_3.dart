@@ -3,7 +3,7 @@ import 'package:hive/hive.dart';
 
 part 'follow_hive_entity_3.g.dart';
 
-@HiveType(typeId: 3)
+@HiveType(typeId: 203)
 class FollowHiveEntity extends EkoObject {
   String? id;
   String? sourceUserId;

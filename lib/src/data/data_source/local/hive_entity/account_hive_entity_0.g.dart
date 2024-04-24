@@ -8,7 +8,7 @@ part of 'account_hive_entity_0.dart';
 
 class AccountHiveEntityAdapter extends TypeAdapter<AccountHiveEntity> {
   @override
-  final int typeId = 0;
+  final int typeId = 200;
 
   @override
   AccountHiveEntity read(BinaryReader reader) {

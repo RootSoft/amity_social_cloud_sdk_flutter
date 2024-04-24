@@ -4,7 +4,7 @@ import 'package:hive/hive.dart';
 part 'user_hive_entity_1.g.dart';
 
 /// User Hive Entity
-@HiveType(typeId: 1)
+@HiveType(typeId: 201)
 class UserHiveEntity extends  EkoObject {
   /// User doc Id
   String? id;

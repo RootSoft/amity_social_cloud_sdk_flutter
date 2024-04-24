@@ -8,7 +8,7 @@ part of 'file_hive_entity_4.dart';
 
 class FileHiveEntityAdapter extends TypeAdapter<FileHiveEntity> {
   @override
-  final int typeId = 4;
+  final int typeId = 204;
 
   @override
   FileHiveEntity read(BinaryReader reader) {

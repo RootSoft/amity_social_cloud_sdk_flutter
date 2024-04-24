@@ -3,7 +3,7 @@ import 'package:hive/hive.dart';
 
 part 'file_hive_entity_4.g.dart';
 
-@HiveType(typeId: 4)
+@HiveType(typeId: 204)
 
 /// [FileHiveEntity]
 class FileHiveEntity  extends EkoObject{

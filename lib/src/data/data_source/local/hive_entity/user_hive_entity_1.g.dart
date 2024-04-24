@@ -8,7 +8,7 @@ part of 'user_hive_entity_1.dart';
 
 class UserHiveEntityAdapter extends TypeAdapter<UserHiveEntity> {
   @override
-  final int typeId = 1;
+  final int typeId = 201;
 
   @override
   UserHiveEntity read(BinaryReader reader) {

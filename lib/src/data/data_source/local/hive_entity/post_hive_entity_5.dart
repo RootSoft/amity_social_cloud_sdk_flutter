@@ -4,7 +4,7 @@ import 'package:hive/hive.dart';
 part 'post_hive_entity_5.g.dart';
 
 /// Post Hive entity
-@HiveType(typeId: 5)
+@HiveType(typeId: 205)
 class PostHiveEntity extends EkoObject {
   /// doc Id
   String? id;

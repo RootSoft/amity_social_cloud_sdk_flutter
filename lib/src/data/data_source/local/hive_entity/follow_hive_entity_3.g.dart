@@ -8,7 +8,7 @@ part of 'follow_hive_entity_3.dart';
 
 class FollowHiveEntityAdapter extends TypeAdapter<FollowHiveEntity> {
   @override
-  final int typeId = 3;
+  final int typeId = 203;
 
   @override
   FollowHiveEntity read(BinaryReader reader) {
